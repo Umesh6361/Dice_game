@@ -17,7 +17,7 @@ else if(random_num<random_num1){
     document.querySelector("h1").innerHTML="Player 2 Wins"
 }
 else{
-    document.querySelector("h1").innerHTML="Draw Match"
+    document.querySelector("h1").innerHTML="Draw Match Lakita"
 }
 
 function refresh(){
